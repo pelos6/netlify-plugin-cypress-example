@@ -21,3 +21,5 @@ Find recorded test results and artifacts at [![Cypress Dashboard](https://img.sh
 
 [renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
 [renovate-app]: https://renovateapp.com/
+
+* modificada por javier
